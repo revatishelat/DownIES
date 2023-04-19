@@ -1,5 +1,5 @@
 # DownIES
-DownIES (IES - IORA Ecological Solutions) is a climate forecasting API that provides statistically downscaled data for India and climate variable analytics for minimum and maximum temperatures and rainfall for the selected region.
+DownIES (IES - IORA Ecological Solutions) is a climate forecasting API that provides statistically downscaled data for Indian administrative boundries and climate variable analytics for minimum and maximum temperatures and rainfall for the selected region.
 
 > Six GCMs and Four Downscaling Algorithms
 
@@ -16,3 +16,5 @@ We hope to expand this project to include other climate variables and provide cl
 
 For more information on CarbonPlan, see [here](https://carbonplan.org/). <br>
 For more information on CarbonPlan's CMIP6 Downscaling Tool, see [here](https://carbonplan.org/research/cmip6-downscaling-explainer).
+
+Built at IORA Ecological Solutions, New Delhi
