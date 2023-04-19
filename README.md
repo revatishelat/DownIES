@@ -8,7 +8,7 @@ DownIES (IES - IORA Ecological Solutions) is a climate forecasting API that prov
 > **Monthly** and **yearly** time scales <br>
 > (As there were inconsistencies in **daily** dataset for the region of India, this data is yet to be made available!) 
 
-For this project, we provide **seasonal** climate variable analytics for the state of Bihar from 2020 to 2099. The dataset was downloaded and clipped for the Bihar region using a shapefile. (Please see folder **Visualization**.)
+For this project, we provide **seasonal** climate variable analytics for the state of Bihar from 2020 to 2099. The dataset was downloaded and clipped for the Bihar region using a shapefile. (Please see folder **Visualization**).
 
 Datasets from CarbonPlan's [CMIP6 Downscaling tool](https://github.com/carbonplan/cmip6-downscaling)
 
