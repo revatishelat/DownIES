@@ -19,10 +19,9 @@ In this project, we provide **seasonal** climate variable analytics for the stat
 Please see How-to Guide on how to use this tool
 
 ------
-<h5>Datasets from CarbonPlan's [CMIP6 Downscaling tool](https://github.com/carbonplan/cmip6-downscaling) <br>
+Datasets from CarbonPlan's [CMIP6 Downscaling tool](https://github.com/carbonplan/cmip6-downscaling) <br>
 For more information on CarbonPlan, see [here](https://carbonplan.org/). <br>
 For more information on CarbonPlan's CMIP6 Downscaling Tool, see [here](https://carbonplan.org/research/cmip6-downscaling-explainer).
-</h5>
 
 ------
 We hope to expand this project to include other climate variables and provide climate variable analytics for even smaller regions such as cities and districs in India. 
